@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<p align="center"> I am a high schooler interested in competitive programming, web development, and app development </p>
+<h3 align="center"> I am a high schooler interested in competitive programming, web development, and app development </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNitpickyCloud&layout=compact)
 
