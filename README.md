@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center"> I am a high schooler interested in competitive programming, web development, and app development </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNitpickyCloud&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNitpickyCloud&repo=tmsite)](https://github.com/TheNitpickyCloud/tmsite)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNitpickyCloud&repo=dino-game-pygame)](https://github.com/TheNitpickyCloud/dino-game-pygame)
   
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=Vue.js) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5)
