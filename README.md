@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center"> I am a high schooler interested in competitive programming, web development, and app development </h3>
-  
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=Vue.js) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5)
-![](https://img.shields.io/badge/Code-CSS-formational?style=flat&logo=CSS3) ![](https://img.shields.io/badge/Code-Javascript-formational?style=flat&logo=JavaScript)
-![](https://img.shields.io/badge/Code-C++-formational?style=flat&logo=C++) ![](https://img.shields.io/badge/Code-Unity-formational?style=flat&logo=Unity) ![](https://img.shields.io/badge/Cloud-Firebase-formational?style=flat&logo=Firebase)
+<h3 align="center"> I like making things </h3>
   
 📫 Reach me on **Discord**: **ghosty#0422**
-
-😄 Pronouns: **He/Him**
           
 <!--
 **TheNitpickyCloud/TheNitpickyCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
