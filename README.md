@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center"> I like making things </h3>
+<h3 align="center"> I like making things 🛠️ </h3>
   
 📫 Reach me on **Discord**: **ghosty#0422**
           
