@@ -2,7 +2,7 @@
 
 <h3 align="center"> I like making things 🛠️ </h3>
   
-📫 Reach me on **Discord**: **ghosty#0422**
+📫 Reach me on **Discord**: **zadbus**
           
 <!--
 **TheNitpickyCloud/TheNitpickyCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
